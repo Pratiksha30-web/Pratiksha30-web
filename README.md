@@ -30,10 +30,7 @@ I am actively seeking **entry-level opportunities** in **Data Analytics / Machin
 - Pandas, NumPy  
 
 **Machine Learning**
-- Regression & Classification  
-- Clustering (K-Means, DBSCAN)  
-- PCA  
-- SVM, Decision Trees, Random Forest  
+
 
 **Data Visualization**
 - Matplotlib  
