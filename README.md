@@ -77,8 +77,8 @@ I am actively seeking **entry-level opportunities** in **Data Analytics / Machin
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/your-username  
-- LinkedIn: *(add when ready)*  
+- GitHub: https://github.com/Pratiksha30-web
+- LinkedIn: https://www.linkedin.com/in/pratiksha-kumari-426430316
 
 ---
 
