@@ -37,8 +37,7 @@ I am actively seeking **entry-level opportunities** in **Data Analytics / Machin
 
 **Data Visualization**
 - Matplotlib  
-- Seaborn  
-- Power BI  
+- Seaborn    
 - Excel  
 
 **Tools & Platforms**
@@ -47,7 +46,7 @@ I am actively seeking **entry-level opportunities** in **Data Analytics / Machin
 - Jupyter Notebook  
 - Google Colab  
 - Streamlit  
-- MLflow  
+  
 
 ---
 
@@ -58,14 +57,6 @@ I am actively seeking **entry-level opportunities** in **Data Analytics / Machin
 - **Sentiment Analysis of COVID-19 Tweets**  
   (SVM-based text classification)
 
-- **PCA & K-Means Clustering on Census Data**  
-  (Dimensionality reduction and clustering analysis)
-
-- **Representation Learning using Autoencoders**  
-  (AE & DAE on CIFAR-10 dataset)
-
-- **CycleGAN – Horse ↔ Zebra Image Translation**  
-  (Deep learning project with visual outputs and loss analysis)
 
 *(Project details available in repositories)*
 
