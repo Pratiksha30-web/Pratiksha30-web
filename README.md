@@ -63,15 +63,20 @@ I am a **motivated and detail-oriented fresher** with a strong foundation in
 
 ## 📌 Projects
 
-🔹 **Amazon Delivery Time Prediction**  
-- Data cleaning & preprocessing  
-- Regression modeling  
-- MLflow experiment tracking  
-- Streamlit app deployment  
+PolicyPal – AI-Powered Employee Handbook Assistant
 
-🔹 **Sentiment Analysis of COVID-19 Tweets**  
-- Text preprocessing  
-- SVM-based classification  
+RAG • FAISS • Gemini
+Built a policy-grounded RAG system using MiniLM embeddings and FAISS for accurate document retrieval
+Designed an end-to-end pipeline (Ingestion → Embedding → Retrieval → Gemini) for querying HR policies
+Tuned Top-K retrieval and low temperature to ensure deterministic, fact-based responses
+Developed a lightweight frontend with HTML, CSS, and JavaScript for low-latency user interaction
+
+Semantic Segmentation Evaluation Framework (ADE20K)
+
+PyTorch • Mask2Former • CUDA • OpenCV
+Implemented a GPU-optimized evaluation pipeline for Mask2Former on the ADE20K dataset
+Automated mIoU metric computation for quantitative performance analysis
+Built visualization tools to compare predictions with ground truth for qualitative insights
 
 📁 *More project details available in my repositories*
 
